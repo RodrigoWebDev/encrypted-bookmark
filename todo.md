@@ -1,15 +1,16 @@
-## MVP
+## MVP 1.0
 
-- Salvar, excluir e editar links
-- Ao excluir, trazer uma modal de confirmação
-- Armazer um objeto com todas as informações do app no localstorage
-- Carregar icones dos links automáticamente usando a API do google ou DDG
-- 1 nivel de categorias
+- [x] Add links
+- [x] Remove links
+- [ ] Remove link confirmation popup
+- [x] Save links in local storage
+- [ ] works offline
+- [ ] one level of categories
+- [ ] Load url icons using google or Duck Duck Go API
 
-## Future features
+## 1.1
 
-- Ter a opção de exportar e importar essas informações
-- Ter a opção de sincronizar com algum serviço de cloud
-- Ter a opção de encriptar e decriptar as informações
-- Funcionar completamente offline
-- Carregar titulo da pagina atomáticamente
+- [ ] Export a json file with bookmark data
+- [ ] Sync with some cloud service
+- [ ] Encrypt and decrypt data
+- [ ] Load url page title automatically
