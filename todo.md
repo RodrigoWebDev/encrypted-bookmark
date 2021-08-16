@@ -7,6 +7,7 @@
 - [ ] works offline
 - [ ] one level of categories
 - [ ] Load url icons using google or Duck Duck Go API
+- [ ] Add UX/UI
 
 ## 1.1
 
